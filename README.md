@@ -1,2 +1,2 @@
-# CuiyingLin.github.io
+# cuiyingLin.github.io
 First Website
