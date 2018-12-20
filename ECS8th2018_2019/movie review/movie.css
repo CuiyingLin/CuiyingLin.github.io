@@ -1,0 +1,39 @@
+html {
+  background: azure url(/images/textures/light11a.png);
+  font: 18px 'Comic Sans MS', cursive;
+  margin: 0 auto 0 auto;
+  width: 320px;
+}
+
+h1 {
+  border: none 0 white;
+  color: deepSkyBlue;
+  font: 110px 'Marck Script', cursive;
+  text-align: center;
+  text-shadow: 4px 2px 5px dodgerBlue;
+}
+
+a:hover{
+  color: dodgerBlue;
+}
+
+img {
+  border: ridge 12px lightBlue;
+}
+
+h2 {
+  border: none 0 white;
+  color: deepSkyBlue;
+  font: 60px 'Marck Script', cursive;
+  text-align: center;
+}
+
+ul {
+  list-style-image: url(/images/icons/icon23.png);
+}
+footer {
+  border: none 0 white;
+  color: deepSkyBlue;
+  font: 20px 'Marck Script', cursive;
+  text-align: center;
+}
