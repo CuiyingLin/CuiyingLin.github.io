@@ -1,9 +1,11 @@
 html {
-  background-color: lavenderBlush url(https://codeavengers.com/images/textures/light6a.png);
-  
+	background-color: lavenderBlush url(https://www.codeavengers.com/images/textures/light6a.png);
+	font: 18px 'Comic Sans MS', cursive; 
+	margin: 0 auto 0 auto;
+	width: 
  }
 
 img {
-  width: 250;
+	width: 250;
 }
 
