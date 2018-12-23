@@ -1,11 +1,27 @@
 html {
-	background-color: lavenderBlush url(https://www.codeavengers.com/images/textures/light6a.png);
+	background-color: lavenderBlush url(https://codeavengers.com/images/textures/light6a.png);
 	font: 18px 'Comic Sans MS', cursive; 
 	margin: 0 auto 0 auto;
-	width: 
+	width: 1000px;
  }
 
 img {
-	width: 250;
+	border: solid 9px mintCream;
+	box-shadow: 3px 3px 5px honeydew;
+	width: 250px;
 }
 
+h1 {
+	border: none 0 lavenderBlush;
+	font: 110px 'Marck Script', cursive;
+	text-align: center;
+	text-shadow: 4px 2px 5px black;
+}
+
+body {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
