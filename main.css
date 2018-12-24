@@ -13,6 +13,7 @@ img {
 h1 {
 	border: none 0 lavenderBlush;
 	font: 110px 'Marck Script', cursive;
+	margin: 0 auto 0 auto;
 	text-align: center;
 	text-shadow: 4px 2px 5px black;
 }
